@@ -1,6 +1,8 @@
 # Business-Data-Anaytics
-Projects from first module of LSE Accelerator. 
+Projects from first module of LSE Accelerator.
+
 Developed business-focused analytical approaches, worked with datasets in Excel and SQL, and used visualisation to communicate patterns, trends and recommendations.
+
 Marketing Customer & Campaign Analysis:
 •	Analysed a supermarket marketing dataset to understand customer characteristics, purchase behaviour and the relationship between advertising channels and customer response.
 •	Cleaned inconsistent dates and converted income and other fields to usable numeric formats for accurate aggregation and comparison.
